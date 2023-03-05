@@ -1,9 +1,5 @@
 # ChatGPT-Demo
-**note: 该项目所有代码（包括这个README）皆由ChatGPT实现**，代码基于https://github.com/wangyunjeff/EasyChatGPT-API
-
-，重写了前端和部分逻辑。
-
-在线访问：[chatGPT](http://josephgu.pythonanywhere.com/)
+**note: 该项目所有代码（包括这个README）皆由ChatGPT实现，重写了前端和部分逻辑。
 
 用python和flask简单实现调用chatGPT的API，支持上下文回复、latex公式渲染、和代码高亮。
 
